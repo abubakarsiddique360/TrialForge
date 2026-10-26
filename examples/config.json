@@ -1,0 +1,6 @@
+{
+  "objective": "sphere",
+  "strategy": "hill_climb",
+  "budget": 60,
+  "seed": 7
+}
